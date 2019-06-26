@@ -1,0 +1,13 @@
+---
+applications:
+- name: ((name))
+  buildpacks: 
+    - https://github.com/cloudfoundry/nginx-buildpack.git#develop
+  stack: cflinuxfs3
+  memory: 64MB
+  instances: ((instances))
+  env:
+    SCHEMA: https://
+    BACKEND: xkcd.com
+    PROXY: ((name)).app.cloud.gov
+
