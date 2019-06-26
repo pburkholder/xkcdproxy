@@ -1,4 +1,4 @@
-# BoardProxy
+# ComicProxy
 
 Proxies traffic to https://xkcd.com via https://&lt;appname&gt;.app.cloud.gov
 
