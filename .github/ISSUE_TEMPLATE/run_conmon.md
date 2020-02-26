@@ -1,7 +1,7 @@
 ---
 name: Run ConMon Scans
 about: INTERNAL ONLY schedule conmon runs
-title: "Run month year conmon scan"
+title: "Run [month] [year] conmon scan"
 labels: ''
 assignees: ''
 
