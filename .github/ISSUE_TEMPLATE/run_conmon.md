@@ -2,7 +2,7 @@
 name: Run ConMon Scans
 about: INTERNAL ONLY: schedule conmon runs
 title: 'Run [month] [year] ConMon scans'
-labels: ''
+labels: bug
 assignees: ''
 
 ---
